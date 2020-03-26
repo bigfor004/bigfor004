@@ -1,1 +1,2 @@
-print("龍龍好可愛")
+good="龍龍好可愛"
+print(good)
