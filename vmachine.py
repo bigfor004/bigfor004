@@ -15,11 +15,11 @@ while flag:
         print(f'目前餘額為{machine.balance}元')
 
     elif select == 4:
-        print('\nbyebye 不要再喝了死胖子')
+        print('\nbyebye 小可愛不要喝了唷')
         flag = False
         break
 
-    else:  #重新
+    else:  #重新輸入
        print('====請輸入1-4之間====')
        continue
 
