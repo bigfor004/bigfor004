@@ -15,7 +15,7 @@ while flag:
         print(f'目前餘額為{machine.balance}元')
 
     elif select == 4:
-        print('\nbyebye 小可愛不要喝了唷')
+        print('\nbyebye 小可愛不要喝太多')
         flag = False
         break
 
