@@ -1,2 +1,2 @@
-good="龍龍好可愛"
-print(good)
+studentA = "I'm dragon"
+print(studentA)
